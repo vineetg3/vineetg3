@@ -5,7 +5,7 @@
 
 🎓 I completed my Bachelor's Degree in Computer Science at Manipal Institute of Technilogy. 
 
-👩‍💻 I worked as a Software developer at Texas Instruments helping build software to accelerate semiconductor chips. Additionally I helped build a remote code execution platform where prospective engineers could run DL inference models on TI chips with a custom cloud.
+👩‍💻 I worked as a Software developer at Texas Instruments helping build software to accelerate semiconductor chip development. Additionally I helped build a remote code execution platform where prospective engineers could run DL inference models on TI chips on a custom cloud.
 
 💻 I am currently working on 
  - Researching graph neural network techniques to examine and build a recommendation system for the primary care physician (PCP) referral network within the US healthcare system.
